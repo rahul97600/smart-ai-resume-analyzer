@@ -619,7 +619,7 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/rahul97600)._**  
+> **_This repository is maintained by [Rahul kumar](https://github.com/rahul97600)._**  
 > Have suggestions? Feel free to reach out to [me via email](mailto:rahul97760089110@gmail.com). 📧
 
 
