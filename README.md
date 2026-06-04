@@ -194,7 +194,7 @@ We continuously improve **Smart AI Resume Analyzer** to provide better resume an
 
 #### 🔹 **Version 1.0 - Standard Resume Analyzer** 🏁
 
-The **foundation** of Smart AI Resume Analyzer, featuring a custom-built **standard resume analysis algorithm** developed by the project [creator](https://github.com/Hunterdii).  
+The **foundation** of Smart AI Resume Analyzer, featuring a custom-built **standard resume analysis algorithm** developed by the project [creator](https://github.com/rahul97600).  
 
 - **🚀 Basic Resume Analysis Algorithm**  **(Developed In-House)** 
 - **📊 Keyword Matching & Role-based Analysis**  
@@ -240,7 +240,7 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
+   git clone https://github.com/rahul97600/resume-analyzer-ai.git
    cd Smart-AI-Resume-Analyzer
    ```
 
@@ -610,17 +610,17 @@ Join the mission! Here's how:
 
 ## 📄 **License**  
 
-This project is licensed under the [MIT License](https://github.com/Hunterdii/resume-analyzer-ai/blob/main/LICENSE).  
+This project is licensed under the [MIT License](https://github.com/rahul97600/resume-analyzer-ai/blob/main/LICENSE).  
 
 
 ## 🌟 **GitHub Repo**  
 
-Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
+Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/rahul97600/resume-analyzer-ai)  
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> **_This repository is maintained by [Hunterdii](https://github.com/rahul97600)._**  
+> Have suggestions? Feel free to reach out to [me via email](mailto:rahul97760089110@gmail.com). 📧
 
 
 ## 📰 News  
@@ -635,8 +635,8 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
+| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/rahul97600)                  |
 | **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
+| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/rahul97600)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
